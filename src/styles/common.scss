@@ -1,0 +1,16 @@
+@import "./variables.scss";
+
+body {
+  margin: 0;
+  background-color: $mv-white;
+  color: $mv-darkBlue;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 30px;
+  text-align: center;
+}
